@@ -41,7 +41,7 @@
                 </div>
                 @yield('content')
                 <p class="small login-copyright text-center">
-                    Copyright &copy; 2015 - {{ date('Y') }} <a href="https://pterodactyl.io/">Pterodactyl Software</a>. Theme Creation: <a href="https://hardcastle.xyz/">Will Hardcastle</a><br />
+                    Copyright &copy; 2015 - {{ date('Y') }} <a href="https://pterodactyl.io/">Pterodactyl Software</a>. Hosted By: <a href="https://scriptedhost.com/">Scripted Host LLC</a><br />
                 </p>
             </div>
         </div>

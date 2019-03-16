@@ -56,7 +56,7 @@
                 <div class="pull-right hidden-xs small text-gray">
                     <strong>v</strong> {{ config('app.version') }}
                 </div>
-                Copyright &copy; 2015 - {{ date('Y') }} <a href="https://pterodactyl.io/">Pterodactyl Software</a>. Theme Creation: <a href="https://hardcastle.xyz/">Will Hardcastle</a>
+                Copyright &copy; 2015 - {{ date('Y') }} <a href="https://pterodactyl.io/">Pterodactyl Software</a>. Hosted By: <a href="https://scriptedhost.com/">Scripted Host LLC</a>
             </footer>
         </div>
         @section('footer-scripts')
