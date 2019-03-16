@@ -342,7 +342,7 @@ span[aria-labelledby="select2-pUserId-container"] {
 }
 
 .nav-tabs-custom > .nav-tabs > li.active.tab-danger, .nav-tabs-custom > .nav-tabs > li.tab-danger:hover {
-    border-top-color: #c23321;
+    border-top-color: linear-gradient(blue, pink);
 }
 
 .nav-tabs-custom > .nav-tabs > li.active.tab-success, .nav-tabs-custom > .nav-tabs > li.tab-success:hover {
