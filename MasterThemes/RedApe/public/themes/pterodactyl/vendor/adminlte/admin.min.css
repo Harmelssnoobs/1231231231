@@ -2171,7 +2171,7 @@ a:hover, a:active, a:focus {
 	background-color: rgba(130, 0, 0, 0.18)
 }
 .callout.callout-danger {
-	border-color: #c23321
+	border-color: #ffffff
 }
 .callout.callout-warning {
 	border-color: #c87f0a
@@ -2743,7 +2743,7 @@ table.text-center, table.text-center td, table.text-center th {
 	border-color: #00733e
 }
 .modal-danger .modal-header, .modal-danger .modal-footer {
-	border-color: #c23321
+	border-color: #ffffff
 }
 .box-widget {
 	border: none;
@@ -3518,17 +3518,17 @@ table.text-center, table.text-center td, table.text-center th {
 }
 .btn-google:focus, .btn-google.focus {
 	color: #fff;
-	background-color: #c23321;
+	background-color: #ffffff;
 	border-color: rgba(0, 0, 0, 0.2)
 }
 .btn-google:hover {
 	color: #fff;
-	background-color: #c23321;
+	background-color: #ffffff;
 	border-color: rgba(0, 0, 0, 0.2)
 }
 .btn-google:active, .btn-google.active, .open>.dropdown-toggle.btn-google {
 	color: #fff;
-	background-color: #c23321;
+	background-color: #ffffff;
 	border-color: rgba(0, 0, 0, 0.2)
 }
 .btn-google:active, .btn-google.active, .open>.dropdown-toggle.btn-google {
@@ -3540,17 +3540,17 @@ table.text-center, table.text-center td, table.text-center th {
 }
 .btn-google:focus, .btn-google.focus {
 	color: #fff;
-	background-color: #c23321;
+	background-color: #ffffff;
 	border-color: rgba(0, 0, 0, 0.2)
 }
 .btn-google:hover {
 	color: #fff;
-	background-color: #c23321;
+	background-color: #ffffff;
 	border-color: rgba(0, 0, 0, 0.2)
 }
 .btn-google:active, .btn-google.active, .open>.dropdown-toggle.btn-google {
 	color: #fff;
-	background-color: #c23321;
+	background-color: #ffffff;
 	border-color: rgba(0, 0, 0, 0.2)
 }
 .btn-google:active, .btn-google.active, .open>.dropdown-toggle.btn-google {
